@@ -1,0 +1,15 @@
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\bin\Debug\net6.0\EmpruntLivre.exe
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\bin\Debug\net6.0\EmpruntLivre.deps.json
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\bin\Debug\net6.0\EmpruntLivre.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\bin\Debug\net6.0\EmpruntLivre.dll
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\bin\Debug\net6.0\EmpruntLivre.pdb
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.dll
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\refint\EmpruntLivre.dll
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.pdb
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\EmpruntLivre.genruntimeconfig.cache
+C:\Users\PREDATOR\source\repos\EmpruntLivre\EmpruntLivre\obj\Debug\net6.0\ref\EmpruntLivre.dll
